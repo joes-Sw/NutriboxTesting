@@ -23,7 +23,7 @@ public class LoginLogoutTest {
         homePage = new HomePage(driver);
 
         // Perform login
-        loginPage.login("Cek123@gmail.com", "Cek123@gmail.com");
+        loginPage.login("newemail@gmail.com", "Cek123@gmail.com");
 
         // Tunggu halaman dashboard
         Thread.sleep(3000);

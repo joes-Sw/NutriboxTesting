@@ -1,7 +1,6 @@
-<div align="center">
+<div align="justify-content-left">
   <h1>Nutribox - Uji Otomatisasi Web (UI Testing)</h1>
 </div>
-<hr>
 
 <p>
   Repositori ini berisi serangkaian skrip uji otomatisasi antarmuka pengguna (UI) untuk aplikasi web <b>Nutribox</b>. Proyek ini dibangun menggunakan <b>Java</b> dengan <b>Selenium WebDriver</b> untuk mengotomatiskan interaksi browser dan mengikuti pola desain <b>Page Object Model (POM)</b> untuk keterbacaan dan pemeliharaan kode yang lebih baik.
